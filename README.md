@@ -55,7 +55,7 @@
 📘 <a href="https://github.com/jonnyzera/Biblioteca-springboot-thymleaf-postgsql">Biblioteca Spring Boot</a>  
 Sistema completo com cadastro, busca e integração com PostgreSQL.
 
-🧾 <a href="https://github.com/jonnyzera/sistema-tarefas">Sistema de Tarefas</a>  
+🧾 <a href="https://github.com/jonnyzera/Lista-simples-Java-Spring">Sistema de Tarefas</a>  
 CRUD com autenticação e interface com Thymeleaf.
 
 ---
