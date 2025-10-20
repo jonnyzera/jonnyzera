@@ -29,6 +29,7 @@
   <li>PostgreSQL</li>
   <li>Thymeleaf</li>
   <li>Git & GitHub</li>
+  <li>React</li>
   <li>Arquitetura de Software</li>
 </ul>
 
