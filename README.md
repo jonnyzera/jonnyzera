@@ -1,99 +1,91 @@
-<h1 align="center">👋 Bem-vindo ao meu GitHub!</h1>
+<h1 align="center">👋 Olá, eu sou o João Victor!</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/mEhPCIDM2bTrl0XKTG/giphy.gif" alt="Java Pixel GIF" width="200"/>
+  <img src="https://media.giphy.com/media/mEhPCIDM2bTrl0XKTG/giphy.gif" alt="Java Pixel GIF" width="150"/>
+</p>
+
+<p align="center">
+  <strong>Desenvolvedor Full Stack | Java, Python & TypeScript</strong><br>
+  Foco em soluções escaláveis, arquitetura limpa e alta performance.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jonnyzera">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:seu-email@exemplo.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
 
 ---
 
-<h2>💻 Sobre Mim</h2>
+## 💻 Sobre Mim
 
-🎓 <strong>Estudante de Ciência da Computação — 8º semestre</strong><br>
-🚀 Apaixonado por tecnologia, desenvolvimento de software e soluções inteligentes.
+🎓 **Bacharel em Ciência da Computação** 🚀 Especialista em backend com **Java**, com forte atuação **Full Stack**. Desenvolvo sistemas robustos e Micro-SaaS focados em resolver problemas reais e gerar valor financeiro através da tecnologia.
 
----
-
-<h2>🎯 Objetivo Profissional</h2>
-
-<blockquote>
-  Meu foco é me tornar um <strong>Desenvolvedor Java</strong> com sólida formação em engenharia de software.<br>
-  Busco criar sistemas robustos, escaláveis e eficientes que resolvam problemas reais e impactem positivamente a vida das pessoas.
-</blockquote>
+- 🏗️ Especialista em **Arquitetura MVC** e Microserviços.
+- ⚙️ APIs de alta performance com **Java (Spring Boot)** e **Python (FastAPI)**.
+- 🌐 Frontends modernos e otimizados com **Next.js** e TypeScript.
+- 📊 Experiência em integração de pagamentos e monetização de software.
 
 ---
 
-<h2>🛠️ Tecnologias que estou estudando</h2>
+## 🛠️ Stack Tecnológica
 
-<ul>
-  <li>Java & Spring Boot</li>
-  <li>PostgreSQL</li>
-  <li>Thymeleaf</li>
-  <li>Git & GitHub</li>
-  <li>React</li>
-  <li>Arquitetura de Software</li>
-</ul>
+### **Backend (Foco Principal)**
+- **Java:** Spring Boot (Data JPA, Security, Cloud) - **Foco Principal**
+- **Python:** APIs ágeis com **FastAPI** e automação de processos.
+- **Arquitetura:** MVC, REST APIs, Clean Architecture e Design Patterns.
+- **Dados:** PostgreSQL, MySQL e Supabase.
 
----
-
-<h2>📈 Linha do Tempo de Aprendizado</h2>
-
-🧠 <strong>2023</strong> — Início com Java e lógica de programação<br>
-📚 <strong>2024</strong> — Spring Boot, PostgreSQL, Git<br>
-🚀 <strong>2025</strong> — Projetos reais, APIs REST, testes automatizados
+### **Frontend & Full Stack**
+- **Web:** TypeScript, React e **Next.js**.
+- **Infra:** Docker, Git/GitHub e Vercel.
+- **Business Tech:** Integração com Stripe e estratégias de SaaS.
 
 ---
 
-<h2>📌 Atualmente estudando</h2>
+## 📂 Projetos em Destaque & Impacto
 
-- Testes com JUnit  
-- Segurança com Spring Security  
-- Deploy com Docker e Heroku
+### 🚀 [ZapBudget](https://www.zapbudget.com.br/) | **Micro-SaaS Rentável**
+Plataforma de gestão financeira pessoal e empresarial desenvolvida para ser escalável e lucrativa.
+- **Tecnologias:** Next.js, TypeScript, Supabase e Stripe.
+- **Valor de Negócio:** Arquitetura focada em **baixo custo operacional** (Serverless) e alta conversão, otimizada para modelos de assinatura (SaaS).
+- **Destaque:** Automação de faturamento e geração de relatórios estratégicos.
+
+### 🛠️ [Kodeo](https://kodeo.site/) | **Software House & Freelance**
+Marca própria focada no desenvolvimento de soluções personalizadas sob demanda.
+- **Valor de Negócio:** Entrega de MVPs e sistemas sob medida com foco em **ROI imediato** e automação de processos para empresas B2B.
+
+### 📚 [Biblioteca Spring Boot](https://github.com/jonnyzera/Biblioteca-springboot-thymleaf-postgsql)
+Sistema completo de gestão de acervo aplicando o padrão **MVC**.
+- **Tecnologias:** Java 17, Spring Boot e PostgreSQL.
+- **Destaque:** Implementação rigorosa de padrões de engenharia de software para sistemas de alta disponibilidade.
 
 ---
 
-<h2>📂 Projetos em Destaque</h2>
-
-📘 <a href="https://github.com/jonnyzera/Biblioteca-springboot-thymleaf-postgsql">Biblioteca Spring Boot</a>  
-Sistema completo com cadastro, busca e integração com PostgreSQL.
-
-🧾 <a href="https://github.com/jonnyzera/Lista-simples-Java-Spring">Sistema de Tarefas</a>  
-CRUD com autenticação e interface com Thymeleaf.
-
----
-
-<h2>📊 Estatísticas GitHub</h2>
+## 📊 Estatísticas GitHub
 
 <table>
   <tr>
-    <td align="center" style="padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=jonnyzera&show_icons=true&theme=radical" alt="Estatísticas GitHub" width="350"/>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=jonnyzera&show_icons=true&theme=radical" alt="Estatísticas GitHub" height="150"/>
     </td>
-    <td align="center" style="padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonnyzera&layout=compact&theme=radical" alt="Linguagens mais usadas" width="250"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" style="padding-top: 15px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" title="Java" style="margin: 5px"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30" title="Spring Boot" style="margin: 5px"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" title="PostgreSQL" style="margin: 5px"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" title="Git" style="margin: 5px"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" title="GitHub" style="margin: 5px"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" title="HTML5" style="margin: 5px"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" title="CSS3" style="margin: 5px"/>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonnyzera&layout=compact&theme=radical" alt="Linguagens mais usadas" height="150"/>
     </td>
   </tr>
 </table>
 
+---
+
+## 🌱 Em constante evolução
+
+Aprofundando em **System Design** e **Cloud Computing (AWS)** para criar soluções B2B cada vez mais eficientes e rentáveis.
 
 ---
 
-<h2>🌱 Em constante evolução</h2>
-
-Estou sempre buscando aprender mais, contribuir com projetos open source e crescer como profissional na área de desenvolvimento backend.
-
----
-
-<h2>📫 Vamos conectar?</h2>
-
-Me envie uma mensagem ou confira meus projetos aqui no GitHub!
+<p align="center">
+  <em>"Transformando linhas de código em ativos digitais de alto valor."</em>
+</p>
